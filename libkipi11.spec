@@ -4,7 +4,7 @@
 Summary:	Interface to use kipi-plugins for KDE
 Name:		libkipi11
 Version:	15.08.3
-Release:	3
+Release:	4
 Epoch:		3
 Group:		Graphical desktop/KDE
 License:	GPLv2
