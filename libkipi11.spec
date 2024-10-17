@@ -8,7 +8,7 @@ Release:	4
 Epoch:		3
 Group:		Graphical desktop/KDE
 License:	GPLv2
-Url:		http://www.kde.org
+Url:		https://www.kde.org
 Source0:	ftp://ftp.kde.org/pub/kde/%{stable}/applications/%{version}/src/%{oname}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
 BuildRequires:	automoc4
